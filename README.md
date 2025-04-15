@@ -24,7 +24,6 @@ This project focuses on training a **CNN** to classify images from the **CIFAR-1
 
 2. **Install required dependencies:**
    - Ensure that you have Python 3.x installed on your system.
-   - Use the provided `requirements.txt` file to install the necessary dependencies.
 
    The primary dependencies include TensorFlow (for building the model), Keras (for handling neural network layers), NumPy (for data manipulation), and Matplotlib (for visualizing the results).
 
