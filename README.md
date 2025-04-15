@@ -65,6 +65,7 @@ After training, the model can be used to make predictions on new CIFAR-10 images
 
 ## Results
 
-The CNN model, after training, should show good accuracy on the CIFAR-10 test set. The expected performance varies based on the model architecture and training parameters.
+The CNN model, after training, achieved a validation accuracy of approximately 70% on the CIFAR-10 test set. The performance can vary depending on the model architecture, training parameters, and the number of epochs used for training.
+
 
 
